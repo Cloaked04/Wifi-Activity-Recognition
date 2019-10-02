@@ -8,7 +8,7 @@ This repository houses all files and research done for the purpose of building a
 2. [3D Tracking via Body Radio Reflections](http://witrack.csail.mit.edu/witrack-paper.pdf)
 3. [Multi-Person Localization via RF Body Reflections](http://witrack.csail.mit.edu/witrack2-paper.pdf)
 4. [Through-Wall Human Pose Estimation Using Radio Signals](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf)
-5. [Demo Abstract: FindIt - Real-time Through-Wall Human Motion Detection Using Narrow Band SDR] (https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/sensys16findit.pdf)
+5. [Demo Abstract: FindIt - Real-time Through-Wall Human Motion Detection Using Narrow Band SDR](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/sensys16findit.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
