@@ -11,6 +11,7 @@ This repository houses all files and research done for the purpose of building a
 5. [Demo Abstract: FindIt - Real-time Through-Wall Human Motion Detection Using Narrow Band SDR](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/sensys16findit.pdf)
 6. [Making the Invisible Visible: Action Recognition Through Walls and Occlusions](http://arxiv.org/pdf/1909.09300v1.pdf)
 7. [Capturing the Human Figure Through a Wall](http://rfcapture.csail.mit.edu/RFcapture-paper.pdf)
+8. [A Survey on Behaviour Recognition Using WiFi Channel State Information](https://arxiv.org/pdf/1708.07129.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
