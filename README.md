@@ -20,3 +20,6 @@ This repository houses all files and research done for the purpose of building a
 
 1. [GNU Radio](https://wiki.gnuradio.org/index.php/What_is_GNU_Radio%3F)
 2. [RTL-SDR](https://www.rtl-sdr.com/tag/radar/)
+
+## Important Links
+1. [DeepSig](https://www.deepsig.io/)
