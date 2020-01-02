@@ -13,6 +13,7 @@ This repository houses all files and research done for the purpose of building a
 7. [Capturing the Human Figure Through a Wall](http://rfcapture.csail.mit.edu/RFcapture-paper.pdf)
 8. [A Survey on Behaviour Recognition Using WiFi Channel State Information](https://arxiv.org/pdf/1708.07129.pdf)
 9. [Crowd Counting Through Walls Using WiFi](https://www.ece.ucsb.edu/~ymostofi/papers/Percom18_DepatlaMostofi.pdf)
+10.[Software Defined Radio: Basic Principles and Applications](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-11292015000100007)
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -20,6 +21,8 @@ This repository houses all files and research done for the purpose of building a
 
 1. [GNU Radio](https://wiki.gnuradio.org/index.php/What_is_GNU_Radio%3F)
 2. [RTL-SDR](https://www.rtl-sdr.com/tag/radar/)
+3. [Machine learning model for SDR](https://github.com/randaller/cnn-rtlsdr)
+
 
 ## Important Links
 1. [DeepSig](https://www.deepsig.io/)
