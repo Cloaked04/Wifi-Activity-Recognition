@@ -18,11 +18,17 @@ This repository houses all files and research done for the purpose of building a
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ## Recently added papers 
+
 1.[Activity detection using received signal strength](https://drive.google.com/open?id=1LjU0NGt0_ESegtB4VkvLzWr8Vpj8fTgV)
+
 2.[Activity detection using radio-tomographic imaging](https://drive.google.com/open?id=16nzK5kqpta4Fto9FtNIEzaW6_JJqNu5g)
+
 3.[Object Detection using radio-signal reflections](https://drive.google.com/open?id=10FMNTlg6yVg96aZ62GaCE6BJ1rIWvpk6)
+
 4.[Rf sensor networks](https://drive.google.com/open?id=19d0AOu-TOMPS6ZBkXvwOBkDdvSuCP_K8)
+
 5.[Seeing through walls using an sdr](https://drive.google.com/open?id=1HtCVBtDpYYbnr98ALG7V5Edby2rSiE-R)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 ## Software-Defined Radio
